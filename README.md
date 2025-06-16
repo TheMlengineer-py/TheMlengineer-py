@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I’m currently working on AI and Machine Learning projects<br>👯 I’m looking to collaborate on open source data engineering projects<br>🤝 <br>I enjoy outdoors like running and walking my dog🌱 
+⚡I’m currently working on AI and Machine Learning projects<br>👯 I’m looking to collaborate on open source data projects<br>🤝<br>I enjoy outdoors like running and walking my dog🌱 
 
 
 ## 🌐 Socials:
