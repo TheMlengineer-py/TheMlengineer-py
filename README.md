@@ -1,5 +1,6 @@
 # 💫 About Me:
-⚡I’m currently working on AI and Machine Learning projects<br>👯 I’m looking to collaborate on open source data projects, and I enjoy outdoors like running and walking my dog <img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/7ac6ac5a-af41-4116-8df0-926b113c1424" />
+⚡I’m currently working on AI and Machine Learning projects<br>👯 I’m looking to collaborate on open source data projects, and I enjoy outdoors like running and walking my dog <img width="39" height="47" alt="image" src="https://github.com/user-attachments/assets/ba6771d4-360e-4dfd-83de-463bdd292f16" />
+/>
 <br>
 
 
