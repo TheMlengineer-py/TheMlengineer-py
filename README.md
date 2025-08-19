@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I’m currently working on AI and Machine Learning open and close source projects<br>👯 I’m looking to collaborate on more advance open source data projects, and I enjoy outdoors like running and walking my dog
+⚡I’m currently working on AI and Machine Learning open and closed source projects<br>👯 I’m looking to collaborate on more advance open source data projects, and I enjoy outdoors like running and walking my dog
                                                                                                                                                                               
 
 
