@@ -1,6 +1,115 @@
 # 💫 About Me:
-⚡I’m currently working on AI and Machine Learning open and closed source projects<br>👯 I’m looking to collaborate on more advance open source data projects, and I enjoy outdoors like running and walking my dog
-                                                                                                                                                                              
+With 6+ years of hands-on experience in AWS, ETL engineering, AI, LLM integrations, business automation and business integration, I help teams fix broken pipelines, build end-to-end cloud architectures, and deploy intelligent automation that saves time and reduces operational friction.
+
+I build scalable AWS data platforms and AI-powered automation systems that transform raw, messy data into fast, reliable, and intelligent pipelines ready for analytics and production workloads.
+
+I build reliable business automation using APIs, Zapier, n8n, and custom middleware. I deliver End-to-end business automation, API-first integrations, and production-grade AI systems across AWS, Zapier, n8n, and custom Node/PHP service.
+
+🔹 What I Do Best (and Deliver Quickly)
+
+1️⃣ Scalable AWS Data Engineering
+
+High-volume ETL/ELT pipelines (Glue, Lambda, Step Functions, EMR, Athena)
+
+Redshift & Lakehouse architecture
+
+Streaming ingestion (Kinesis, MSK)
+
+Optimized S3 → Warehouse workflows
+
+dbt transformations & data modeling
+
+
+2️⃣ AI & Machine Learning Systems
+
+Predictive analytics, forecasting, anomaly detection
+
+SageMaker pipelines & model deployment
+
+PyTorch & Python ML systems
+
+Evaluation, monitoring, and production optimization
+
+
+3️⃣ LLM / RAG / AI Automation
+
+Retrieval-Augmented Generation (LangChain, LlamaIndex)
+
+Document intelligence & PDF processing
+
+LLM agents using OpenAI, Anthropic, Gemini
+
+Model Context Protocol (MCP) integrations
+
+Chatbots with citations, vector search, and advanced retrieval
+
+
+4️⃣ Infrastructure & DevOps
+
+Terraform, CloudFormation, CI/CD (GitHub Actions)
+
+Highly available containerized workloads (ECS, EKS)
+
+CloudWatch dashboards, Prometheus monitoring
+
+End-to-end system hardening & cost optimization
+
+
+5️⃣ Business Automation & System Integration
+
+End-to-end business automation and business integration solutions
+
+Workflow automation using Zapier and n8n for rapid orchestration
+
+Custom Node.js and PHP-based middleware for complex or non-standard integrations
+
+API-first system design (SP-API, internal tools, SaaS platforms)
+
+Reliable, observable automation pipelines (not brittle scripts)
+
+🔹 Clients Reviews 🔹
+
+⭐⭐⭐⭐⭐ Exceptional Problem Solver & System Builder
+“Dave took a semi-functional system and rebuilt it into a reliable, scalable pipeline. Brilliant work end-to-end.”
+
+⭐⭐⭐⭐⭐ Strong Mentor & Technical Leader
+“He helped our team fix multiple pipeline issues and clarified complex backend processes.”
+
+⭐⭐⭐⭐⭐ AWS Expert with Strong Delivery Focus
+“He is Proactive, fast, and knowledgeable. Would highly recommend.”
+
+⭐⭐⭐⭐⭐ Business Automation & Integration Specialist
+“Dave Delivered clean, reliable automation across multiple systems. Built robust Zapier and n8n workflows with custom Node.js middleware where off-the-shelf tools fell short. Highly dependable and production-focused.”
+
+⭐⭐⭐⭐⭐ Exceptional Automation Engineer
+“Dave Transformed our disconnected tools into a single, automated workflow. Strong API-first design, excellent use of Zapier and n8n, and custom integrations that actually scale. Clear communication and fast delivery.”
+                                                                                                                                         Testimonials
+Endorsements from past clients
+
+"It was such a great pleasure working with Dayo. His adept knowledge of Python and AWS is impressive, and his ability to break down complex ideas into understandable concepts is truly commendable. Dayo consistently demonstrated deep technical expertise while maintaining a clear and approachable communication style. His contributions were invaluable to our projects, and his problem-solving skills helped drive successful outcomes. Dayo is a standout professional."
+
+Gabriel O.
+Dec 2025  Verified
+
+"Dave delivered exceptional results on our ETL platform project. His ability to diagnose issues quickly, optimize pipelines, and implement clean, scalable solutions was outstanding. Reliable, detail-oriented, and highly proactive, Dave consistently went beyond expectations. A true expert in data engineering, automation, and AWS—highly recommended."
+
+HAYAT A.
+Dec 2025  Verified
+
+"I’ve worked with Dave on several open source projects, and he consistently delivers high-quality work. He is reliable, thoughtful with his approach, and excellent at communicating progress and challenges. His technical skills are solid, and he always brings a positive, collaborative mindset. I’m happy to recommend him for any work he pursues."
+
+Opeyemi O. | Data Analyst
+Open Source Data Project Nov 2025  Verified
+
+"I had the pleasure of working with Dave on a complex ETL project, and the experience was outstanding from start to finish. They demonstrated deep technical expertise, strong problem-solving skills, and excellent communication throughout the entire engagement. They quickly understood the business requirements, designed a clean and scalable data pipeline, and delivered high-quality work ahead of schedule. Their attention to detail and proactive approach to identifying potential issues saved us a lot of time and ensured a smooth data flow across our systems. If you're looking for a reliable, highly skilled data engineer who can take ownership of a project and deliver exceptional results, I highly recommend Dave and I would absolutely work with them again. "
+
+Olabode A. | Data Scientist
+Machine Learning Nov 2025  Verified
+
+"Dave provided exceptional support on my machine learning projects. His expertise, professionalism, and consistent understanding of my needs made the entire process efficient and successful. I greatly appreciate their guidance and highly recommend their services."
+
+kamahl a. | IT support
+Data Science and Business Analytics Nov 2025  Verified                                     
 
 
 ## 🌐 Socials:
