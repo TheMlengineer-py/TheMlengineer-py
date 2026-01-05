@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🔹 About Me:
 With 6+ years of hands-on experience in AWS, ETL engineering, AI, LLM integrations, business automation and business integration, I help teams fix broken pipelines, build end-to-end cloud architectures, and deploy intelligent automation that saves time and reduces operational friction.
 
 I build scalable AWS data platforms and AI-powered automation systems that transform raw, messy data into fast, reliable, and intelligent pipelines ready for analytics and production workloads.
@@ -89,27 +89,27 @@ Endorsements from past clients
 "It was such a great pleasure working with Dayo. His adept knowledge of Python and AWS is impressive, and his ability to break down complex ideas into understandable concepts is truly commendable. Dayo consistently demonstrated deep technical expertise while maintaining a clear and approachable communication style. His contributions were invaluable to our projects, and his problem-solving skills helped drive successful outcomes. Dayo is a standout professional."
 
 Gabriel O.
-Dec 2025  Verified
+Dec 2025  ✔ Verified
 
 "Dave delivered exceptional results on our ETL platform project. His ability to diagnose issues quickly, optimize pipelines, and implement clean, scalable solutions was outstanding. Reliable, detail-oriented, and highly proactive, Dave consistently went beyond expectations. A true expert in data engineering, automation, and AWS—highly recommended."
 
 HAYAT A.
-Dec 2025  Verified
+Dec 2025  ✔ Verified
 
 "I’ve worked with Dave on several open source projects, and he consistently delivers high-quality work. He is reliable, thoughtful with his approach, and excellent at communicating progress and challenges. His technical skills are solid, and he always brings a positive, collaborative mindset. I’m happy to recommend him for any work he pursues."
 
 Opeyemi O. | Data Analyst
-Open Source Data Project Nov 2025  Verified
+Open Source Data Project Nov 2025 ✔ Verified
 
 "I had the pleasure of working with Dave on a complex ETL project, and the experience was outstanding from start to finish. They demonstrated deep technical expertise, strong problem-solving skills, and excellent communication throughout the entire engagement. They quickly understood the business requirements, designed a clean and scalable data pipeline, and delivered high-quality work ahead of schedule. Their attention to detail and proactive approach to identifying potential issues saved us a lot of time and ensured a smooth data flow across our systems. If you're looking for a reliable, highly skilled data engineer who can take ownership of a project and deliver exceptional results, I highly recommend Dave and I would absolutely work with them again. "
 
 Olabode A. | Data Scientist
-Machine Learning Nov 2025  Verified
+Machine Learning Nov 2025 ✔ Verified
 
 "Dave provided exceptional support on my machine learning projects. His expertise, professionalism, and consistent understanding of my needs made the entire process efficient and successful. I greatly appreciate their guidance and highly recommend their services."
 
 kamahl a. | IT support
-Data Science and Business Analytics Nov 2025  Verified                                     
+Data Science and Business Analytics Nov 2025 ✔ Verified                                     
 
 
 ## 🌐 Socials:
