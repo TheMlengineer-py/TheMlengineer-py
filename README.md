@@ -67,26 +67,10 @@ API-first system design (SP-API, internal tools, SaaS platforms)
 
 Reliable, observable automation pipelines (not brittle scripts)
 
-🔹 Clients Reviews 🔹
 
-⭐⭐⭐⭐⭐ Exceptional Problem Solver & System Builder
-“Dave took a semi-functional system and rebuilt it into a reliable, scalable pipeline. Brilliant work end-to-end.”
+🔹Testimonials Endorsements from past clients🔹
 
-⭐⭐⭐⭐⭐ Strong Mentor & Technical Leader
-“He helped our team fix multiple pipeline issues and clarified complex backend processes.”
-
-⭐⭐⭐⭐⭐ AWS Expert with Strong Delivery Focus
-“He is Proactive, fast, and knowledgeable. Would highly recommend.”
-
-⭐⭐⭐⭐⭐ Business Automation & Integration Specialist
-“Dave Delivered clean, reliable automation across multiple systems. Built robust Zapier and n8n workflows with custom Node.js middleware where off-the-shelf tools fell short. Highly dependable and production-focused.”
-
-⭐⭐⭐⭐⭐ Exceptional Automation Engineer
-“Dave Transformed our disconnected tools into a single, automated workflow. Strong API-first design, excellent use of Zapier and n8n, and custom integrations that actually scale. Clear communication and fast delivery.”
-                                                                                                                                         Testimonials
-Endorsements from past clients
-
-"It was such a great pleasure working with Dayo. His adept knowledge of Python and AWS is impressive, and his ability to break down complex ideas into understandable concepts is truly commendable. Dayo consistently demonstrated deep technical expertise while maintaining a clear and approachable communication style. His contributions were invaluable to our projects, and his problem-solving skills helped drive successful outcomes. Dayo is a standout professional."
+"It was such a great pleasure working with Dave. His adept knowledge of Python and AWS is impressive, and his ability to break down complex ideas into understandable concepts is truly commendable. Dayo consistently demonstrated deep technical expertise while maintaining a clear and approachable communication style. His contributions were invaluable to our projects, and his problem-solving skills helped drive successful outcomes. Dayo is a standout professional."
 
 Gabriel O.
 Dec 2025  ✔ Verified
