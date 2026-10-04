@@ -1,71 +1,50 @@
-# 🔹 About Me:
-With years of hands-on experience in AWS, ETL engineering, AI, LLM integrations, business automation and business integration, I help teams fix broken pipelines, build end-to-end cloud architectures, and deploy intelligent automation that saves time and reduces operational friction.
+# 🔹 About Me
 
-I build scalable AWS data platforms and AI-powered automation systems that transform raw, messy data into fast, reliable, and intelligent pipelines ready for analytics and production workloads.
+With 5+ years of hands-on experience across AWS, Azure, GCP, ETL engineering, AI/ML, LLM integrations, and business automation, I help teams fix broken pipelines, build end-to-end cloud architectures, and deploy intelligent automation that saves time and reduces operational friction.
 
-I build reliable business automation using APIs, Zapier, n8n, and custom middleware. I deliver End-to-end business automation, API-first integrations, and production-grade AI systems across AWS, Zapier, n8n, and custom Node/PHP service.
+I build scalable, cloud-agnostic data platforms and AI-powered automation systems that transform raw, messy data into fast, reliable, production-ready pipelines for analytics and ML workloads, wherever they need to run.
 
-🔹 What I Do Best (and Deliver Quickly)
+I also deliver reliable business automation through APIs, Zapier, n8n, and custom middleware, combining end-to-end data engineering with API-first integrations and production-grade AI systems across multi-cloud platforms, LangChain, and custom Python/Node services.
 
-1️⃣ Scalable AWS Data Engineering
+## 🔹 What I Do Best (and Deliver Quickly)
 
-High-volume ETL/ELT pipelines (Glue, Lambda, Step Functions, EMR, Athena)
+**1️⃣ Multi-Cloud Data Engineering**
+- High-volume ETL/ELT pipelines across AWS (Glue, Lambda, Step Functions, Athena, S3), Azure (Data Lake, Synapse), and GCP (Dataflow, BigQuery)
+- Redshift, BigQuery, and lakehouse architecture
+- Streaming and event-driven ingestion (Kinesis, EventBridge, SNS, SQS)
+- Multi-layer data modeling (staging, conform, summary layers)
+- IAM, KMS, and Lake Formation access control for governed data platforms
+- Cloud-agnostic pipeline design, built to port across AWS, Azure, and GCP without re-architecture
 
-Redshift & Lakehouse architecture
+**2️⃣ AI & Machine Learning Systems**
+- Predictive analytics, time series forecasting, anomaly detection
+- SageMaker, AWS Bedrock, Azure ML Studio, and Vertex AI pipelines and model deployment
+- PyTorch, TensorFlow, and Scikit-learn ML systems
+- Model monitoring, evaluation, and production optimization via MLflow and cloud-native monitoring tools
 
-Streaming ingestion (Kinesis, MSK)
+**3️⃣ LLM / RAG / Agentic AI**
+- Retrieval-Augmented Generation (LangChain, LlamaIndex, LangGraph)
+- Multi-agent orchestration systems
+- LLM agents using OpenAI, Anthropic Claude, and open-source models (Llama, Groq)
+- Model Context Protocol (MCP) server integrations
+- Context-aware copilots and chatbots with vector search (ChromaDB) and NLP-driven retrieval (spaCy)
 
-Optimized S3 → Warehouse workflows
+**4️⃣ Infrastructure & DevOps**
+- Terraform, CloudFormation, CI/CD (GitHub Actions), portable across cloud providers
+- Containerized workloads (Docker, Kubernetes)
+- Monitoring and automated alerting across AWS CloudWatch, Azure Monitor, and GCP equivalents
+- Infrastructure testing, rollback-ready deployments, and cost-aware architecture
 
-dbt transformations & data modeling
+**5️⃣ Business Automation & System Integration**
+- End-to-end business automation and system integration solutions
+- Workflow orchestration using Zapier and n8n
+- Custom Python and Node.js middleware for complex or non-standard integrations
+- API-first system design, RESTful API integration, and third-party data ingestion
+- Reliable, observable automation pipelines, not brittle scripts
 
+---
 
-2️⃣ AI & Machine Learning Systems
-
-Predictive analytics, forecasting, anomaly detection
-
-SageMaker pipelines & model deployment
-
-PyTorch & Python ML systems
-
-Evaluation, monitoring, and production optimization
-
-
-3️⃣ LLM / RAG / AI Automation
-
-Retrieval-Augmented Generation (LangChain, LlamaIndex)
-
-Document intelligence & PDF processing
-
-LLM agents using OpenAI, Anthropic, Gemini
-
-Model Context Protocol (MCP) integrations
-
-Chatbots with citations, vector search, and advanced retrieval
-
-
-4️⃣ Infrastructure & DevOps
-
-Terraform, CloudFormation, CI/CD (GitHub Actions)
-
-Highly available containerized workloads (ECS, EKS)
-
-CloudWatch dashboards, Prometheus monitoring
-
-End-to-end system hardening & cost optimization
-
-
-5️⃣ Business Automation & System Integration
-
-End-to-end business automation and business integration solutions
-
-Workflow automation using Zapier and n8n for rapid orchestration
-
-Custom Node.js and PHP-based middleware for complex or non-standard integrations
-
-API-first system design (SP-API, internal tools, SaaS platforms)
-
-Reliable, observable automation pipelines (not brittle scripts)
+📄 [Resume](https://github.com/TheMlengineer-py/Resume/blob/main/Dave_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/dayo-oyeyemi-809594229) · 🌐 [Portfolio](https://bit.ly/40EuefG)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dayo-oyeyemi-datascientistmachinelearningengineerpythondeveloperdataanalystchatbotdeveloper/) 
